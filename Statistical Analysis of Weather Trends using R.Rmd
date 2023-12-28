@@ -1,5 +1,5 @@
 ---
-title: "Statistics_Final"
+title: "Statistical Analysis of Weather Trends using R"
 author: "Vivek Chandra"
 date: "2023-12-03"
 output: html_document
